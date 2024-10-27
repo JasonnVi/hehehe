@@ -11,3 +11,8 @@ function sendVirtualHug() {
 function startMovie() {
     alert("Let's start the movie and get cozy! 🍿🎬");
 }
+
+
+function startMovie() {
+    window.location.href = 'https://www.netflix.com';
+}
